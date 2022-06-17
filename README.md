@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: New Year Countdown GitHub Solution
+- Solution URL: [New Year Countdown GitHub Solution](https://github.com/MaryAngelique/new-year-countdown)
 - Live Site URL: [New Year Countdown Website](https://new-year-countdown-zero.vercel.app/)
 
 ## My process
