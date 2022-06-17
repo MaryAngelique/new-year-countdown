@@ -21,7 +21,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: New Year Countdown GitHub Solution
-- Live Site URL: New Year Countdown Website
+- Live Site URL: [New Year Countdown Website](https://new-year-countdown-zero.vercel.app/)
 
 ## My process
 
